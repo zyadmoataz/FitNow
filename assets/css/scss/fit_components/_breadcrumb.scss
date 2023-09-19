@@ -1,0 +1,13 @@
+.fitnow_breadcrumbs{
+    padding: 0 !important;
+    margin: 1rem 0 !important;
+}
+.fit_custom_bread{
+    .current_path{
+        font-size: 16px;
+        color:$text_color;
+        font-weight: bold;
+        display: flex;
+        border-inline-end:1px solid #d6dce1;
+    }
+}

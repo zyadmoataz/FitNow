@@ -1,0 +1,22 @@
+export default {
+    'login' :'Login',
+    'Dashboard':'Dashboard',
+    'Analytics':'Analytics',
+    'Chat':'Chat',
+    'Messages':'Messages',
+    'Find_Work':'Find Work',
+    'My_Feed':'My Feed',
+    'Post_Package':'Post Package',
+    'clients':'clients',
+    'All_Clients':'All Clients',
+    'Add_Client':'Add Client',
+    'Builders':'Builders',
+    'Workout':'Workout',
+    'Exercieses':'Exercieses',
+    'Nutrition':'Nutrition',
+    'NutritionPlan':'NutritionPlan',
+    'Programs':'Programs',
+    'Payment':'Payment',
+    'Payment_Mangement':'Payment Mangement',
+
+}

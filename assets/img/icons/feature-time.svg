@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.8104845%" y1="0%" x2="66.8104845%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#931FFF" offset="0%"></stop>
+            <stop stop-color="#2D0DAE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="feature-time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="OfficeTools-Icons-09" transform="translate(6.000000, 6.000000)" stroke-width="3.91304348">
+            <circle id="Oval" stroke="url(#linearGradient-1)" fill-opacity="0.25" fill="#9524FF" cx="44" cy="44" r="43.826087"></circle>
+            <circle id="Oval" stroke="url(#linearGradient-1)" fill="#FFFFFF" cx="44" cy="44" r="32.673913"></circle>
+            <circle id="Oval" stroke="#6016D6" fill-opacity="0.25" fill="#9524FF" cx="44" cy="44" r="5.2826087"></circle>
+            <path d="M44,38.1304348 L44,20.5217391" id="Path" stroke="#6016D6"></path>
+            <path d="M47.9130435,47.326087 L59.4565217,55.5434783" id="Path" stroke="#6016D6"></path>
+        </g>
+    </g>
+</svg>

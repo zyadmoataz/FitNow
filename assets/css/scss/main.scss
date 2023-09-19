@@ -1,0 +1,11 @@
+@import 'vars';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import 'global';
+@import './nav/vartical-nav';
+@import './nav/_horizontal-nav';
+@import 'content';
+@import 'fitnow-components';
+@import './fit_components/_breadcrumb';
+*{
+    font-family: 'Montserrat', sans-serif;
+}

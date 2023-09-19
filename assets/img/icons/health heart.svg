@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.658" height="48.722" viewBox="0 0 49.658 48.722">
+  <g id="Group_162574" data-name="Group 162574" transform="translate(1.5 1.5)">
+    <g id="icon_injury">
+      <g id="Group_948" data-name="Group 948">
+        <path id="Path_671" data-name="Path 671" d="M155.2,136.711c0-9.177-5.8-16.617-12.951-16.617a11.568,11.568,0,0,0-8.869,4.507,16.137,16.137,0,0,0-1.511,2.195c-2.361-4.061-6.123-6.7-10.376-6.7-7.153,0-12.951,7.44-12.951,16.617" transform="translate(-108.546 -120.094)" fill="none" stroke="#34be82" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <line id="Line_536" data-name="Line 536" x2="27" y2="28" transform="translate(3.409 8.5)" fill="none" stroke="#34be82" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_672" data-name="Path 672" d="M142.439,131.2l17.754,16.78.142.19-21.311,23.3-21.311-23.3" transform="translate(-115.989 -126.467)" fill="none" stroke="#34be82" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_537" data-name="Line 537" x2="27" y2="26" transform="translate(9.409 2.5)" fill="none" stroke="#34be82" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

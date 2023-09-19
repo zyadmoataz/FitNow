@@ -1,0 +1,18 @@
+.horizontal-nav{
+    width: calc(100vw - (100vw - 100%)  - 50px);
+    
+    border-radius: 0.428rem !important;
+    margin: 1rem auto 0;
+ 
+    transition: 300ms ease all;
+   .v-toolbar--dense{
+    border-radius: 0.428rem !important;
+    transition: 300ms ease all;
+   }
+}
+
+
+.horizontal-nav
+.v-card--flat{
+    box-shadow: 0 4px 24px 0 rgb(34 41 47 / 10%) !important;
+}
